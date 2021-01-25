@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>main.qml</file>
+        <file>qml/PageStopWatch/Impl/qmldir</file>
+        <file>qml/PageStopWatch/qmldir</file>
+        <file>qml/PageTimer/Impl/CustomTimer.qml</file>
+        <file>qml/PageTimer/Impl/qmldir</file>
+        <file>qml/PageTimer/qmldir</file>
+        <file>qml/PageStopWatch/Impl/CustomStopWatch.qml</file>
+        <file>qml/CustomButton/Impl/CustomButton.qml</file>
+        <file>qml/CustomButton/Impl/qmldir</file>
+        <file>qml/CustomButton/qmldir</file>
+        <file>qml/CustomButtonRound/Impl/CustomButtonRound.qml</file>
+        <file>qml/CustomButtonRound/Impl/qmldir</file>
+        <file>qml/CustomButtonRound/qmldir</file>
+        <file>qml/PageTimer/CustomRunTimer/Impl/CustomRunTimer.qml</file>
+        <file>qml/PageTimer/CustomRunTimer/Impl/qmldir</file>
+        <file>qml/PageTimer/CustomRunTimer/qmldir</file>
+        <file>qml/PageTimer/CustomStopTimer/Impl/CustomStopTimer.qml</file>
+        <file>qml/PageTimer/CustomStopTimer/Impl/qmldir</file>
+        <file>qml/PageTimer/CustomStopTimer/qmldir</file>
+    </qresource>
+</RCC>
